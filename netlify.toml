@@ -1,5 +1,5 @@
 [build]
-  command = "cd PerformaSync && npm install --f && npm run build -- --prod"
+  command = "cd PerformaSync && npm install --legacy-peer-deps && npm run build -- --prod"
 
   # Set the base directory for the build
   base = "PerformaSync"
