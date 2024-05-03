@@ -1,5 +1,5 @@
 [build]
-  command = "npm install --force && npm run build -- --prod"
+  command = "npm install --force && npm run build"
 
   # Set the base directory for the build
   base = "PerformaSync"
